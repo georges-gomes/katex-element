@@ -1,2 +1,3 @@
 # katex-element
-&lt;custom-element> for katex
+
+<custom-element> for katex 
