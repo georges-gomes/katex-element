@@ -24,7 +24,7 @@ Use the `<katex-element>` where you want
     <script src="dist/katex-element.umd.js" type="module"></script>
   </head>
   <body>
-    <katex-element>\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)</katex-element>
+    <katex-element>\sqrt{x}</katex-element>
   </body>
 </html>
 ```
