@@ -14,8 +14,10 @@ Load the module
 Use the `<katex-element>` where you want
 
 ```
-<katex-element>\beta * 2</katex-element>
+<katex-element>\sqrt{x}</katex-element>
 ```
+
+Full example:
 
 ```html
 <!DOCTYPE html>
